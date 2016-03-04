@@ -18,15 +18,15 @@ avatar: http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/c
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: dmitrijs.minajevs@outlook.com
+  facebook: remeembeeer
   flickr:
-  github: barryclark/jekyll-now
-  instagram:
+  github: minajevs
+  instagram: dexie.me
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: minajevd
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
