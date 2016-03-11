@@ -27,14 +27,14 @@ What I did was that I added new new binding configuration for my webapp. To the 
 
 ```
 <bindings>
-  <binding protocol="https" bindingInformation="*:8300:localhost" />
+  <binding protocol="http" bindingInformation="*:8300:localhost" />
 </bindings>
 ```
 
 I added 
 
 ```
-  <binding protocol="https" bindingInformation="*:8300:dmitrijsminajevs" />
+  <binding protocol="http" bindingInformation="*:8300:dmitrijsminajevs" />
 ```
 
 After that I allowed that IP to be used by non-Admin accounts
