@@ -88,8 +88,14 @@ title: Проблема не в том, что жизнь несправедли
 
 ***
 *Оригинал:* [The problem isn’t that life is unfair – it’s your broken idea of fairness](http://oliveremberton.com/2014/the-problem-isnt-that-life-is-unfair-its-your-broken-idea-of-fairness/), 2014
+
 *Автор:* [Olive Remberton](https://disqus.com/by/oliveremberton/)
+
 *Перевод:* [Дмитрий Минаев](http://dexie.me), 2016
+
+
+
+_Просьба о любых грамматических, стилестических или смысловых ошибках писать мне куда-нибудь, напрмиер - на [емейл](mailto:dmitrijs.minajevs@outlook.com). :)_
 
 
 
